@@ -1,0 +1,41 @@
+Market Beating Analysis Report
+==================================================
+
+Top 10 Stocks by Sharpe Ratio (Risk-Adjusted Returns):
+--------------------------------------------------
+MERV: 1.90 (Return: 119.83%, Vol: 40.55%)
+STI: 1.81 (Return: 22.76%, Vol: 10.21%)
+GDAXI: 1.53 (Return: 27.11%, Vol: 14.38%)
+TA125.TA: 1.52 (Return: 28.20%, Vol: 14.99%)
+HSI: 1.42 (Return: 46.80%, Vol: 25.67%)
+BFX: 1.29 (Return: 18.87%, Vol: 11.89%)
+JN0U.JO: 1.21 (Return: 31.47%, Vol: 21.00%)
+GSPTSE: 1.00 (Return: 13.78%, Vol: 10.94%)
+VIX: 0.93 (Return: 336.29%, Vol: 157.29%)
+FTSE: 0.80 (Return: 10.15%, Vol: 9.53%)
+
+Top 10 Stocks by Sortino Ratio (Downside Risk-Adjusted Returns):
+--------------------------------------------------
+IPSA: inf (Return: nan%, Vol: nan%)
+CASE30: inf (Return: nan%, Vol: nan%)
+125904-USD-STRD: inf (Return: nan%, Vol: nan%)
+MERV: 2.81 (Return: 119.83%, Vol: 40.55%)
+TA125.TA: 2.68 (Return: 28.20%, Vol: 14.99%)
+GDAXI: 2.29 (Return: 27.11%, Vol: 14.38%)
+STI: 2.28 (Return: 22.76%, Vol: 10.21%)
+HSI: 2.11 (Return: 46.80%, Vol: 25.67%)
+VIX: 1.98 (Return: 336.29%, Vol: 157.29%)
+JN0U.JO: 1.95 (Return: 31.47%, Vol: 21.00%)
+
+Top 10 Stocks by Excess Return vs Market:
+--------------------------------------------------
+GSPTSE: 1.81% (Beta: 0.59, Correlation: 0.74)
+IXIC: 1.27% (Beta: 1.37, Correlation: 0.95)
+GSPC: 0.00% (Beta: 1.00, Correlation: 1.00)
+XAX: -0.14% (Beta: 0.61, Correlation: 0.42)
+NYA: -1.53% (Beta: 0.70, Correlation: 0.84)
+DJI: -2.61% (Beta: 0.75, Correlation: 0.83)
+XDN: -6.95% (Beta: -0.13, Correlation: -0.16)
+DX-Y.NYB: -8.56% (Beta: -0.02, Correlation: -0.05)
+RUT: -8.75% (Beta: 1.18, Correlation: 0.79)
+XDB: -9.16% (Beta: 0.12, Correlation: 0.24)

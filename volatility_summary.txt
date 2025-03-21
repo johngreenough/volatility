@@ -1,0 +1,373 @@
+Volatility Summary Report
+==================================================
+
+
+AORD:
+Average Historical Volatility: 11.37%
+Average EWMA Volatility: 11.38%
+GARCH Parameters:
+omega       0.173865
+alpha[1]    0.092726
+beta[1]     0.583080
+Name: params, dtype: float64
+------------------------------
+
+AXJO:
+Average Historical Volatility: 11.47%
+Average EWMA Volatility: 11.44%
+GARCH Parameters:
+omega       0.198172
+alpha[1]    0.089961
+beta[1]     0.542987
+Name: params, dtype: float64
+------------------------------
+
+KS11:
+Average Historical Volatility: 19.04%
+Average EWMA Volatility: 18.51%
+GARCH Parameters:
+omega       0.940761
+alpha[1]    0.278940
+beta[1]     0.051335
+Name: params, dtype: float64
+------------------------------
+
+XDN:
+Average Historical Volatility: 10.26%
+Average EWMA Volatility: 10.59%
+GARCH Parameters:
+omega       0.082854
+alpha[1]    0.094167
+beta[1]     0.716626
+Name: params, dtype: float64
+------------------------------
+
+STI:
+Average Historical Volatility: 9.67%
+Average EWMA Volatility: 9.85%
+GARCH Parameters:
+omega       0.196200
+alpha[1]    0.369888
+beta[1]     0.194126
+Name: params, dtype: float64
+------------------------------
+
+FCHI:
+Average Historical Volatility: 13.50%
+Average EWMA Volatility: 13.17%
+GARCH Parameters:
+omega       0.253880
+alpha[1]    0.187818
+beta[1]     0.470528
+Name: params, dtype: float64
+------------------------------
+
+KLSE:
+Average Historical Volatility: 9.34%
+Average EWMA Volatility: 9.26%
+GARCH Parameters:
+omega       0.145896
+alpha[1]    0.610457
+beta[1]     0.170672
+Name: params, dtype: float64
+------------------------------
+
+MXX:
+Average Historical Volatility: 14.78%
+Average EWMA Volatility: 14.46%
+GARCH Parameters:
+omega       0.374454
+alpha[1]    0.040200
+beta[1]     0.537281
+Name: params, dtype: float64
+------------------------------
+
+N225:
+Average Historical Volatility: 22.88%
+Average EWMA Volatility: 22.67%
+GARCH Parameters:
+omega       0.565345
+alpha[1]    0.276314
+beta[1]     0.441800
+Name: params, dtype: float64
+------------------------------
+
+GSPTSE:
+Average Historical Volatility: 10.56%
+Average EWMA Volatility: 10.38%
+GARCH Parameters:
+omega       0.078779
+alpha[1]    0.078118
+beta[1]     0.757312
+Name: params, dtype: float64
+------------------------------
+
+IXIC:
+Average Historical Volatility: 18.89%
+Average EWMA Volatility: 18.45%
+GARCH Parameters:
+omega       0.114492
+alpha[1]    0.072797
+beta[1]     0.856541
+Name: params, dtype: float64
+------------------------------
+
+000001.SS:
+Average Historical Volatility: 16.53%
+Average EWMA Volatility: 16.48%
+GARCH Parameters:
+omega       0.256888
+alpha[1]    0.215479
+beta[1]     0.549411
+Name: params, dtype: float64
+------------------------------
+
+HSI:
+Average Historical Volatility: 23.62%
+Average EWMA Volatility: 23.73%
+GARCH Parameters:
+omega       0.188838
+alpha[1]    0.134918
+beta[1]     0.792447
+Name: params, dtype: float64
+------------------------------
+
+BFX:
+Average Historical Volatility: 11.48%
+Average EWMA Volatility: 11.30%
+GARCH Parameters:
+omega       0.137745
+alpha[1]    0.114357
+beta[1]     0.637175
+Name: params, dtype: float64
+------------------------------
+
+STOXX50E:
+Average Historical Volatility: 14.66%
+Average EWMA Volatility: 14.32%
+GARCH Parameters:
+omega       0.186402
+alpha[1]    0.059196
+beta[1]     0.731050
+Name: params, dtype: float64
+------------------------------
+
+BVSP:
+Average Historical Volatility: 13.55%
+Average EWMA Volatility: 13.38%
+GARCH Parameters:
+omega       0.002938
+alpha[1]    0.014321
+beta[1]     0.985679
+Name: params, dtype: float64
+------------------------------
+
+DJI:
+Average Historical Volatility: 11.95%
+Average EWMA Volatility: 11.95%
+GARCH Parameters:
+omega       0.199291
+alpha[1]    0.128194
+beta[1]     0.555934
+Name: params, dtype: float64
+------------------------------
+
+RUT:
+Average Historical Volatility: 19.88%
+Average EWMA Volatility: 19.86%
+GARCH Parameters:
+omega       0.309379
+alpha[1]    0.034178
+beta[1]     0.780109
+Name: params, dtype: float64
+------------------------------
+
+XAX:
+Average Historical Volatility: 20.04%
+Average EWMA Volatility: 19.57%
+GARCH Parameters:
+omega       3.148376e-02
+alpha[1]    2.303701e-11
+beta[1]     9.823404e-01
+Name: params, dtype: float64
+------------------------------
+
+JN0U.JO:
+Average Historical Volatility: 21.03%
+Average EWMA Volatility: 20.47%
+GARCH Parameters:
+omega       0.906476
+alpha[1]    0.087789
+beta[1]     0.396425
+Name: params, dtype: float64
+------------------------------
+
+GSPC:
+Average Historical Volatility: 13.00%
+Average EWMA Volatility: 12.84%
+GARCH Parameters:
+omega       0.085474
+alpha[1]    0.103321
+beta[1]     0.785190
+Name: params, dtype: float64
+------------------------------
+
+JKSE:
+Average Historical Volatility: 15.25%
+Average EWMA Volatility: 15.02%
+GARCH Parameters:
+omega       0.085618
+alpha[1]    0.107266
+beta[1]     0.819760
+Name: params, dtype: float64
+------------------------------
+
+XDE:
+Average Historical Volatility: 6.67%
+Average EWMA Volatility: 6.52%
+GARCH Parameters:
+omega       0.000885
+alpha[1]    0.000000
+beta[1]     1.000000
+Name: params, dtype: float64
+------------------------------
+
+VIX:
+Average Historical Volatility: 142.06%
+Average EWMA Volatility: 138.87%
+GARCH Parameters:
+omega       32.283998
+alpha[1]     0.829366
+beta[1]      0.170634
+Name: params, dtype: float64
+------------------------------
+
+BSESN:
+Average Historical Volatility: 13.35%
+Average EWMA Volatility: 13.22%
+GARCH Parameters:
+omega       0.439595
+alpha[1]    0.191833
+beta[1]     0.179417
+Name: params, dtype: float64
+------------------------------
+
+NYA:
+Average Historical Volatility: 10.93%
+Average EWMA Volatility: 10.91%
+GARCH Parameters:
+omega       0.126644
+alpha[1]    0.111290
+beta[1]     0.645005
+Name: params, dtype: float64
+------------------------------
+
+NZ50:
+Average Historical Volatility: 11.24%
+Average EWMA Volatility: 10.86%
+GARCH Parameters:
+omega       0.021342
+alpha[1]    0.000000
+beta[1]     0.958199
+Name: params, dtype: float64
+------------------------------
+
+XDB:
+Average Historical Volatility: 6.86%
+Average EWMA Volatility: 6.70%
+GARCH Parameters:
+omega       1.212453e-03
+alpha[1]    4.868941e-11
+beta[1]     9.978476e-01
+Name: params, dtype: float64
+------------------------------
+
+MERV:
+Average Historical Volatility: 39.48%
+Average EWMA Volatility: 38.61%
+GARCH Parameters:
+omega       0.345964
+alpha[1]    0.016708
+beta[1]     0.932814
+Name: params, dtype: float64
+------------------------------
+
+GDAXI:
+Average Historical Volatility: 13.50%
+Average EWMA Volatility: 13.34%
+GARCH Parameters:
+omega       0.208381
+alpha[1]    0.175470
+beta[1]     0.559554
+Name: params, dtype: float64
+------------------------------
+
+NSEI:
+Average Historical Volatility: 13.36%
+Average EWMA Volatility: 13.22%
+GARCH Parameters:
+omega       0.422963
+alpha[1]    0.209336
+beta[1]     0.188361
+Name: params, dtype: float64
+------------------------------
+
+N100:
+Average Historical Volatility: 12.15%
+Average EWMA Volatility: 11.79%
+GARCH Parameters:
+omega       0.180786
+alpha[1]    0.246963
+beta[1]     0.458921
+Name: params, dtype: float64
+------------------------------
+
+XDA:
+Average Historical Volatility: 10.36%
+Average EWMA Volatility: 10.71%
+GARCH Parameters:
+omega       0.417729
+alpha[1]    0.141087
+beta[1]     0.000000
+Name: params, dtype: float64
+------------------------------
+
+TA125.TA:
+Average Historical Volatility: 14.86%
+Average EWMA Volatility: 14.80%
+GARCH Parameters:
+omega       2.297437e-01
+alpha[1]    1.868054e-15
+beta[1]     7.450725e-01
+Name: params, dtype: float64
+------------------------------
+
+FTSE:
+Average Historical Volatility: 9.46%
+Average EWMA Volatility: 9.35%
+GARCH Parameters:
+omega       0.186826
+alpha[1]    0.151314
+beta[1]     0.335549
+Name: params, dtype: float64
+------------------------------
+
+DX-Y.NYB:
+Average Historical Volatility: 6.18%
+Average EWMA Volatility: 6.11%
+GARCH Parameters:
+omega       3.951175e-04
+alpha[1]    3.852221e-10
+beta[1]     1.000000e+00
+Name: params, dtype: float64
+------------------------------
+
+TWII:
+Average Historical Volatility: 20.64%
+Average EWMA Volatility: 20.15%
+GARCH Parameters:
+omega       1.165970
+alpha[1]    0.336029
+beta[1]     0.001892
+Name: params, dtype: float64
+------------------------------
