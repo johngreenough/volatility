@@ -1,0 +1,221 @@
+Performance Ratios Analysis Report
+==================================================
+
+Top 10 by Sharpe Ratio:
+------------------------------
+
+MERV:
+Sharpe Ratio: 1.90
+Annual Return: 119.83%
+Annual Volatility: 40.55%
+Win Rate: 58.13%
+--------------------
+
+STI:
+Sharpe Ratio: 1.81
+Annual Return: 22.76%
+Annual Volatility: 10.21%
+Win Rate: 56.18%
+--------------------
+
+GDAXI:
+Sharpe Ratio: 1.53
+Annual Return: 27.11%
+Annual Volatility: 14.38%
+Win Rate: 54.33%
+--------------------
+
+TA125.TA:
+Sharpe Ratio: 1.52
+Annual Return: 28.20%
+Annual Volatility: 14.99%
+Win Rate: 52.94%
+--------------------
+
+HSI:
+Sharpe Ratio: 1.42
+Annual Return: 46.80%
+Annual Volatility: 25.67%
+Win Rate: 49.80%
+--------------------
+
+BFX:
+Sharpe Ratio: 1.29
+Annual Return: 18.87%
+Annual Volatility: 11.89%
+Win Rate: 57.03%
+--------------------
+
+JN0U.JO:
+Sharpe Ratio: 1.21
+Annual Return: 31.47%
+Annual Volatility: 21.00%
+Win Rate: 57.03%
+--------------------
+
+GSPTSE:
+Sharpe Ratio: 1.00
+Annual Return: 13.78%
+Annual Volatility: 10.94%
+Win Rate: 55.56%
+--------------------
+
+VIX:
+Sharpe Ratio: 0.93
+Annual Return: 336.29%
+Annual Volatility: 157.29%
+Win Rate: 43.82%
+--------------------
+
+FTSE:
+Sharpe Ratio: 0.80
+Annual Return: 10.15%
+Annual Volatility: 9.53%
+Win Rate: 53.54%
+--------------------
+
+Top 10 by Sortino Ratio:
+------------------------------
+
+IPSA:
+Sortino Ratio: inf
+Annual Return: nan%
+Annual Volatility: nan%
+Win Rate: 0.00%
+--------------------
+
+CASE30:
+Sortino Ratio: inf
+Annual Return: nan%
+Annual Volatility: nan%
+Win Rate: 0.00%
+--------------------
+
+125904-USD-STRD:
+Sortino Ratio: inf
+Annual Return: nan%
+Annual Volatility: nan%
+Win Rate: 0.00%
+--------------------
+
+MERV:
+Sortino Ratio: 2.81
+Annual Return: 119.83%
+Annual Volatility: 40.55%
+Win Rate: 58.13%
+--------------------
+
+TA125.TA:
+Sortino Ratio: 2.68
+Annual Return: 28.20%
+Annual Volatility: 14.99%
+Win Rate: 52.94%
+--------------------
+
+GDAXI:
+Sortino Ratio: 2.29
+Annual Return: 27.11%
+Annual Volatility: 14.38%
+Win Rate: 54.33%
+--------------------
+
+STI:
+Sortino Ratio: 2.28
+Annual Return: 22.76%
+Annual Volatility: 10.21%
+Win Rate: 56.18%
+--------------------
+
+HSI:
+Sortino Ratio: 2.11
+Annual Return: 46.80%
+Annual Volatility: 25.67%
+Win Rate: 49.80%
+--------------------
+
+VIX:
+Sortino Ratio: 1.98
+Annual Return: 336.29%
+Annual Volatility: 157.29%
+Win Rate: 43.82%
+--------------------
+
+JN0U.JO:
+Sortino Ratio: 1.95
+Annual Return: 31.47%
+Annual Volatility: 21.00%
+Win Rate: 57.03%
+--------------------
+
+Top 10 by Annual Return:
+------------------------------
+
+VIX:
+Annual Return: 336.29%
+Sharpe Ratio: 0.93
+Sortino Ratio: 1.98
+Win Rate: 43.82%
+--------------------
+
+MERV:
+Annual Return: 119.83%
+Sharpe Ratio: 1.90
+Sortino Ratio: 2.81
+Win Rate: 58.13%
+--------------------
+
+HSI:
+Annual Return: 46.80%
+Sharpe Ratio: 1.42
+Sortino Ratio: 2.11
+Win Rate: 49.80%
+--------------------
+
+JN0U.JO:
+Annual Return: 31.47%
+Sharpe Ratio: 1.21
+Sortino Ratio: 1.95
+Win Rate: 57.03%
+--------------------
+
+TA125.TA:
+Annual Return: 28.20%
+Sharpe Ratio: 1.52
+Sortino Ratio: 2.68
+Win Rate: 52.94%
+--------------------
+
+GDAXI:
+Annual Return: 27.11%
+Sharpe Ratio: 1.53
+Sortino Ratio: 2.29
+Win Rate: 54.33%
+--------------------
+
+STI:
+Annual Return: 22.76%
+Sharpe Ratio: 1.81
+Sortino Ratio: 2.28
+Win Rate: 56.18%
+--------------------
+
+BFX:
+Annual Return: 18.87%
+Sharpe Ratio: 1.29
+Sortino Ratio: 1.76
+Win Rate: 57.03%
+--------------------
+
+GSPTSE:
+Annual Return: 13.78%
+Sharpe Ratio: 1.00
+Sortino Ratio: 1.44
+Win Rate: 55.56%
+--------------------
+
+TWII:
+Annual Return: 13.08%
+Sharpe Ratio: 0.47
+Sortino Ratio: 0.56
+Win Rate: 54.55%
+--------------------
