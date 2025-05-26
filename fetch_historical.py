@@ -2,6 +2,7 @@ import yfinance as yf
 import pandas as pd
 from datetime import datetime, timedelta
 import os
+import time
 
 def fetch_historical_data(symbol, start_date, end_date):
     """Fetch historical data for a given symbol."""
@@ -38,6 +39,9 @@ def main():
             print(f"Saved data to {output_file}")
         else:
             print(f"No data available for {symbol}")
+        
+        # Add a 2-second delay between requests to avoid rate limiting
+        time.sleep(2)
 
 if __name__ == "__main__":
     main() 

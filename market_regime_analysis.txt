@@ -1,0 +1,48 @@
+Market Regime Analysis Report
+==================================================
+
+Regime Characteristics:
+------------------------------
+       Volatility           Mean_Return           Return_Volatility          
+             mean       std        mean       std              mean       std
+Regime                                                                       
+0        0.146774  0.084489   -0.263279  0.371254          0.009246  0.005322
+1        2.974164  0.259576    6.277407  3.446114          0.187355  0.016352
+2        0.145738  0.083437    0.521303  0.431595          0.009181  0.005256
+3        1.153246  0.332005    0.834038  2.719726          0.072648  0.020914
+
+Regime Descriptions:
+------------------------------
+
+Regime 0:
+Count: 4445
+Average Volatility: 0.1468
+Average Return: -0.2633
+Most Common Symbols: MXX         165
+DX-Y.NYB    155
+KLSE        151
+--------------------
+
+Regime 1:
+Count: 40
+Average Volatility: 2.9742
+Average Return: 6.2774
+Most Common Symbols: VIX    40
+--------------------
+
+Regime 2:
+Count: 3730
+Average Volatility: 0.1457
+Average Return: 0.5213
+Most Common Symbols: MERV     154
+GDAXI    145
+GSPC     142
+--------------------
+
+Regime 3:
+Count: 171
+Average Volatility: 1.1532
+Average Return: 0.8340
+Most Common Symbols: VIX     163
+N225      8
+--------------------

@@ -8,16 +8,16 @@ from datetime import datetime, timedelta
 
 def load_and_clean_data(filename="world_indices_data.csv"):
     """Load and clean the data from CSV file."""
-    df = pd.read_csv(filename)
-    df = df.drop(columns=["Unnamed: 2"], errors="ignore")
-    
+df = pd.read_csv(filename)
+df = df.drop(columns=["Unnamed: 2"], errors="ignore")
+
     # Split and clean price data
-    df[['Current Price', 'Change Details']] = df['Price'].str.split(' ', n=1, expand=True)
-    df['Current Price'] = df['Current Price'].str.replace(',', '').astype(float)
-    
+df[['Current Price', 'Change Details']] = df['Price'].str.split(' ', n=1, expand=True)
+df['Current Price'] = df['Current Price'].str.replace(',', '').astype(float)
+
     # Extract change and percentage change
-    df['Change'] = df['Change Details'].str.extract(r'([-+]?\d*\.\d+|\d+)', expand=False).astype(float)
-    df['Change %'] = df['Change Details'].str.extract(r'\((-?\d*\.\d+)%\)', expand=False).astype(float)
+df['Change'] = df['Change Details'].str.extract(r'([-+]?\d*\.\d+|\d+)', expand=False).astype(float)
+df['Change %'] = df['Change Details'].str.extract(r'\((-?\d*\.\d+)%\)', expand=False).astype(float)
     
     # Clean volume data
     df['Volume'] = df['Volume'].apply(parse_volume)
@@ -104,7 +104,7 @@ def main():
             print(f"Error analyzing {stock_name}: {str(e)}")
     
     # Save cleaned data
-    df.to_csv("cleaned_data.csv", index=False)
+df.to_csv("cleaned_data.csv", index=False)
     
     print("\nNote: This analysis is based on single-day data. For volatility analysis, historical data is required.")
 
